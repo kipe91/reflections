@@ -1,0 +1,60 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+	Fill in.. ioefshifss.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+	Fill in.. i hfueaind aieu
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+	Fill in.. ifushruf jsfd.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+	Fill in.. ihrfosrkjf dhdkd.
+
+How can you use the commands git log and git diff to view the history of files?
+
+	Fill in.. isjfnkdn ksmd.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+	Fill in..n oiruhfsjd.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	Fill in.. jsrifksdm fisrifkd.
+
+How could having easy access to the entire history of a file make you a more efficient 
+programmer in the long term?
+
+	Answer is.. aefn oaemksnd akemsk.
+
+What do you think are the pros and cons of manually choosing when to create a commit, 
+like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+	I think that manually is the best of the best.. very best.. of best. You know? best.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, 
+while others, like Google Docs, treat each file separately?
+
+	This question is nbufeek, fe oefiee. And some more text to fill this out.
+
+How can you use the commands git log and git diff to view the history of files?
+
+	Something boring text cuz i dont know what tot write.
+
+How might using version control make you more confident to make changes that could break something?
+
+	Text uusd eonjsoiu shduajk sdjaeo kksdd.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	No, just no.. dont want to answer on questions.
